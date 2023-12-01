@@ -1,2 +1,2 @@
-# weather_desktop_app
+# Weather Desktop App
 A simple desktop weather app
